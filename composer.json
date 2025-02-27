@@ -1,0 +1,20 @@
+{
+    "name": "waxedphp/plyr",
+    "description": "... - within WaxedPHP environment.",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.3.0",
+    "autoload": {
+        "psr-4": {
+            "Waxedphp\\Plyr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JasterStary"
+        }
+    ],
+    "require": {
+      "waxedphp/waxedphp":"^0.3.0"
+    }
+}
