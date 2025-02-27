@@ -1,6 +1,6 @@
 # Plyr
 
-... - within WaxedPHP environment.
+A simple, accessible and customisable media player for Video, Audio, YouTube and Vimeo - within WaxedPHP environment.
 
 This package contains helper plugin functionality for WaxedPHP.
 All required third party sources will be downloaded to npm during composer installation.

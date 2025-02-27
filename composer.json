@@ -1,9 +1,9 @@
 {
     "name": "waxedphp/plyr",
-    "description": "... - within WaxedPHP environment.",
+    "description": "A simple, accessible and customisable media player for Video, Audio, YouTube and Vimeo - within WaxedPHP environment.",
     "type": "library",
     "license": "MIT",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "autoload": {
         "psr-4": {
             "Waxedphp\\Plyr\\": "src/"
